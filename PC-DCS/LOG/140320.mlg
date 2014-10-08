@@ -1,0 +1,6 @@
+00001,7,SW1(GET-OPE2) old=0 new=1
+00002,7,SW1(PRG-ST) old=0 new=1
+00003,7,SW2(PRG-RST) old=0 new=1
+00004,7,SW1(PRG-RST) old=0 new=1
+00005,7,SW1(GET-OPE2) old=0 new=1
+00006,7,SW1(PRG-ST) old=0 new=1
